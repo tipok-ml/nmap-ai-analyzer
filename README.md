@@ -3,9 +3,9 @@
 ```markdown
 # 🔍 nmap-ai-analyzer
 
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/tipok-ml/nmap-ai-analyzer?style=social)](https://github.com/tipok-ml/nmap-ai-analyzer/stargazers)
+[Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[GitHub stars](https://img.shields.io/github/stars/tipok-ml/nmap-ai-analyzer?style=social)](https://github.com/tipok-ml/nmap-ai-analyzer/stargazers)
 
 **Автоматизированный анализ безопасности сетей с помощью nmap и DeepSeek AI**
 
