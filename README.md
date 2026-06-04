@@ -102,27 +102,24 @@ python3 nmap_ai_helper.py scanme.nmap.org
 
 ## 🖼️ Скриншоты
 
-```markdown
-![Пример без AI] <img width="1854" height="1048" alt="Снимок экрана от 2026-06-04 16-00-56" src="https://github.com/user-attachments/assets/0f841fcb-320b-40c9-b0dc-ec8d1b1243e6" />
+Пример без AI <img width="1854" height="1048" alt="Снимок экрана от 2026-06-04 16-00-56" src="https://github.com/user-attachments/assets/4145d0d8-f580-4670-806a-78844cda7ff3" />
 
-![Пример с AI] <img width="1854" height="1048" alt="Снимок экрана от 2026-06-04 15-18-46" src="https://github.com/user-attachments/assets/184bf9e8-36cd-49b0-bd65-e3f32c29080e" />
+
+Пример с AI <img width="1854" height="1048" alt="Снимок экрана от 2026-06-04 15-18-46" src="https://github.com/user-attachments/assets/184bf9e8-36cd-49b0-bd65-e3f32c29080e" />
 <img width="1854" height="1048" alt="Снимок экрана от 2026-06-04 15-18-52" src="https://github.com/user-attachments/assets/76857cfe-dd1b-484c-a34e-44adf02107ea" />
 <img width="1854" height="1048" alt="Снимок экрана от 2026-06-04 15-18-58" src="https://github.com/user-attachments/assets/96fb47ae-e63d-4049-8d06-0c83f2bc6631" />
 <img width="1854" height="1048" alt="Снимок экрана от 2026-06-04 15-19-02" src="https://github.com/user-attachments/assets/a52c749b-ac70-4f15-88ff-f602baa1cef7" />
 ```
 
----
 
-## 📄 Лицензия
+ 📄 Лицензия
 
-Этот проект распространяется под лицензией **MIT**. Подробности – в файле [LICENSE](LICENSE).
+Этот проект распространяется под лицензией MIT. Подробности – в файле [LICENSE](LICENSE).
 
----
 
-## 👤 Автор
+ 👤 Автор
 
-**tipok-ml**  
+tipok-ml  
 [GitHub](https://github.com/tipok-ml)
 
 Если вам понравился проект, поставьте ⭐️ – это очень поможет в развитии!
-```
