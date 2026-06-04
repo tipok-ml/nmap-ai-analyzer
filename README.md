@@ -56,9 +56,10 @@ text
 ============================================================
 
 🖼️ Скриншоты
-
-    Здесь вы можете добавить скриншоты работы скрипта.
-    Например: терминал с результатами сканирования и AI-анализом.
+<img width="1854" height="1048" alt="Снимок экрана от 2026-06-04 15-18-46" src="https://github.com/user-attachments/assets/52e212d8-a795-4530-822a-c46307723b40" />
+<img width="1854" height="1048" alt="Снимок экрана от 2026-06-04 15-18-52" src="https://github.com/user-attachments/assets/3fb32ce6-ae4f-46af-a2b2-309b7856cf30" />
+<img width="1854" height="1048" alt="Снимок экрана от 2026-06-04 15-18-58" src="https://github.com/user-attachments/assets/8a8621cf-3525-430a-8e3e-6e237b3d00a8" />
+<img width="1854" height="1048" alt="Снимок экрана от 2026-06-04 15-19-02" src="https://github.com/user-attachments/assets/3eb21e22-4fd7-4c19-9b5d-863c5fbf0ea2" />
 
 🛠️ Аргументы командной строки
 Аргумент	Описание
